@@ -1,2 +1,19 @@
 # python-mini--projects
 Mini projects which I wrote when I was learning python.
+I wrote every project in order to learn python.
+# PROJECTS:
+***** A mini guessing number game which you can access with password and name*****
+It contains basic control of user name and password. If the conditions are correct, a mini random number guessing game will be opened.
+After the game,the scores are saved to the file.
+
+
+
+
+
+
+
+
+# to download this repo:
+''' bash 
+git clone
+https://github.com/ecemm1/python-mini--projects.git
