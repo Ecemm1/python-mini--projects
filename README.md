@@ -9,6 +9,10 @@ After the game,the scores are saved to the file.
 ***** A mini diary*****
 It saves the user's notes to a file. Reads when prompted.
 
+***** A simple TO-DO List ******
+It contains a simple menu with delete,show,exit and add functions.The user can add new task, delete task and view list. The code can run until
+the exit option which can end the loop.
+
 
 
 
