@@ -13,8 +13,8 @@ It saves the user's notes to a file. Reads when prompted.
 It contains a simple menu with delete,show,exit and add functions.The user can add new task, delete task and view list. The code can run until
 the exit option which can end the loop.
 
-***** A simple Code That Controls If Input is a Palkindrom*****
-It contains a mini code block that if input is a polindrom. It means it checks whether the sentence or word is the same when reversed. 
+***** A simple Code That Controls If Input is a Palindrom*****
+It contains a mini code block that if input is a palindrom. It means it checks whether the sentence or word is the same when reversed. 
 
 
 
