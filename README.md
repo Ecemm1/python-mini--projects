@@ -20,6 +20,7 @@ It contains a mini code block that checks if input is a palindrom. It means it c
 This mini project contains a mini code block that can make simple analysis about calculating the total revenue and counting the number of products.
 
 *****A-simple-csv-file-analysis-with-pandas****
+
 In this mini project I wrote a code block that can make simple analysis about csv file about sales table with using Pandas.
 
 
