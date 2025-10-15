@@ -16,6 +16,9 @@ the exit option which can end the loop.
 ***** A simple Code That Controls If Input is a Palindrom*****
 It contains a mini code block that checks if input is a palindrom. It means it checks whether the sentence or word is the same when reversed. 
 
+***** A-simple-csv-file-analysis*******
+This mini project contains a mini code block that can make simple analysis about calculating the total revenue and counting the number of products.
+
 
 
 
