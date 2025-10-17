@@ -19,9 +19,12 @@ It contains a mini code block that checks if input is a palindrom. It means it c
 ****** A-simple-csv-file-analysis*******
 This mini project contains a mini code block that can make simple analysis about calculating the total revenue and counting the number of products.
 
-*****A-simple-csv-file-analysis-with-pandas****
+*****A Simple csv File Analysis with Pandas ****
 
 In this mini project I wrote a code block that can make simple analysis about csv file about sales table with using Pandas.
+
+***** A mini Project About Inventory Management *****
+It is a simple inventory project that contains add,delete,update and exit functions.
 
 
 
