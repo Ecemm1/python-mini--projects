@@ -26,6 +26,9 @@ In this mini project I wrote a code block that can make simple analysis about cs
 ***** A mini Project About Inventory Management *****
 It is a simple inventory project that contains add,delete,update and exit functions.
 
+****** A simple Inventory Project with JSON ******
+It is a mini inventory project that has a Menu which contains add,delete,update, simple report and exit. I recorded inventory to JSON files.
+
 
 
 
