@@ -29,6 +29,10 @@ It is a simple inventory project that contains add,delete,update and exit functi
 ****** A simple Inventory Project with JSON ******
 It is a mini inventory project that has a Menu which contains add,delete,update, simple report and exit. I recorded inventory to JSON files.
 
+******* An Automation Project with python about Excel Sheets*****
+In this mini project I used openpyxl and pandas to convert simple csv file to excel file and make a simple report sheet.
+
+
 
 
 
